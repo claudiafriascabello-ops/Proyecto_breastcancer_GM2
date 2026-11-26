@@ -53,4 +53,3 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
-.Rproj.user
